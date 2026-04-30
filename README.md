@@ -1,4 +1,4 @@
-# codex
+# Codex
 How to use Codex?
 
 
