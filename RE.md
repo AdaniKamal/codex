@@ -1,4 +1,4 @@
-```console
+```zsh
 ┌──(kali㉿adanikamal)-[~/Desktop/test]
 └─$ codex --yolo "unzip this secured file name attachments.zip in this file. find the flag"
 ╭───────────────────────────────────────────────────╮
