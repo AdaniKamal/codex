@@ -1,25 +1,4 @@
 ```zsh
-┌──(kali㉿adanikamal)-[~/Desktop/test]
-└─$ codex --yolo "unzip this secured file name attachments.zip in this file. find the flag"
-╭───────────────────────────────────────────────────╮
-│ >_ OpenAI Codex (v0.113.0)                        │
-│                                                   │
-│ directory: ~/Desktop/test                         │
-╰───────────────────────────────────────────────────╯
-
-  Tip: Update Required - This version will no longer be supported starting May 8th. Please upgrade to the latest version
-
-
-› unzip this secured file name attachments.zip in this file. find the flag
-
- 
-• Working (14s • esc to interrupt)
- 
- 
-› Write tests for @filename
- 
-1ugpt-5.3-codex xhigh · 100% left · ~/Desktop/test
-zsh: suspended  codex --yolo 
                                                                                                                                                         
 ┌──(kali㉿adanikamal)-[~/Desktop/test]
 └─$ codex --yolo "reverse engineer the decoded.exe file and find the flag"
